@@ -1,4 +1,5 @@
 # Diplom_1
+Unit tests
 ## Technologies
 - Java 11
 - JUnit 4.13.2
